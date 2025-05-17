@@ -1,0 +1,11 @@
+# ESP-IDF 依存関係設定 (idf_component.yml または manifest.yml)
+dependencies:
+  idf: ">=5.3"
+#  esp_littlefs:
+#    git: https://github.com/joltwallet/esp_littlefs.git
+#  M5Unified:
+#    git: https://github.com/m5stack/M5Unified.git
+#    version: develop
+#  M5GFX:
+#    git: https://github.com/m5stack/M5GFX.git
+#    version: develop
