@@ -2,6 +2,9 @@
 
 ESP32-P4（M5Stack系）用 ディスプレイスピードテストプロジェクト
 
+
+![image](https://github.com/user-attachments/assets/4998d911-944f-4b15-9ad8-856d1c2704cc)
+
 ## 概要
 - ESP32-P4開発ボード上でM5Unified/M5GFXライブラリを利用し、複数の画面サイズ・回転で描画速度を自動計測・表示します。
 - テスト結果はシリアルログおよび画面に出力されます。
